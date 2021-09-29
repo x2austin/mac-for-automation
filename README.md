@@ -1,0 +1,1 @@
+# mac-for-automation
